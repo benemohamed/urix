@@ -6,4 +6,8 @@ authors:
 
 crystal: 0.34.0
 
+targets:
+  shards:
+    main: src/urix.cr
+
 license: MIT
